@@ -1,11 +1,6 @@
-# README #
+# Kadry_ANN #
 
-author: Ashraf Kadry
-purpose: A computational neural network model of Cortical and Subcortical
-motor areas controlling index and middle fingers before and after stroke.
-We explore the recovery dynamics between the CST and RST residual neurons
-after stroke in perspective of individuation and applied force resulted
-from the two pools of neurons.
+purpose: A computational neural network model of Cortical and Subcortical motor areas controlling index and middle fingers before and after stroke. We explore the recovery dynamics between the CST and RST residual neurons after stroke in perspective of individuation and applied force resulted from the two pools of neurons.
 
 # Structure
 
